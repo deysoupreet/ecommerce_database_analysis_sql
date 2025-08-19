@@ -1,0 +1,4 @@
+1|iPhone 14|1
+2|MacBook Air|1
+3|Nike Shoes|2
+4|Levi Jeans|3

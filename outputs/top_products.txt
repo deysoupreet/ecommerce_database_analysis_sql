@@ -1,0 +1,4 @@
+2|MacBook Air|99999.0
+1|iPhone 14|79999.0
+3|Nike Shoes|9998.0
+4|Levi Jeans|8997.0
